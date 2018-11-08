@@ -2,9 +2,9 @@
 > Make Web More Accessible!
 
 ## Table of Contents
-- [Web_Content_Accessibility_Guidelines](#web-content-accessibility-guidelines)
-    - [Key_Features](#key-features)
-    - [Disability_Categories](#disability-categories)
+- [Web Content Accessibility Guidelines](#web-content-accessibility-guidelines)
+    - [Key Features](#key-features)
+    - [Disability Categories](#disability-categories)
     - [WAI-ARIA](#wai-aria)
 
 ## Web Content Accessibility Guidelines (WCAG)
